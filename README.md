@@ -45,4 +45,4 @@ step3: run the code in `qc.R`
 
 step4: run the code in `combine_repeat.py`
 
-step5: run the code in `F9_scRNA_analysis.m`, `Hela_scRNA_analysis.m` and `run_saver.R`
+step5: run the code in `F9_scRNA_analysis.m` and `Hela_scRNA_analysis.m`
